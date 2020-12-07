@@ -1,0 +1,13 @@
+Functionality: 
+1.) 3 x 3 Jeoprady board
+2.) When users click a button:
+    i.) Question Appears as popup
+        a.) Timer withing popup counting down from 60 secs
+        b.) Popup closes when 60 secs is over (over user just clicks and we move to original state)
+        c.) Question turns to all blue when used
+    ii.) +100/+0 underneath scoreboard "Did you get this question?"
+Formatting:
+1.) Make Instructions column go all the way up
+2.) Move Jeopardy over to be the 3rd
+3.) Change font?
+4.) Break up parsed info to be more distinct cutoff? 
